@@ -1,4 +1,4 @@
-# Random Quote Generator
+# Inspirational Quote Generator
 
 This is a simple web application that generates random quotes when the user clicks a button or presses the Enter key.
 
